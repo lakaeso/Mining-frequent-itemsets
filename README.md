@@ -9,6 +9,6 @@ Main theme of this repo are algorithms for frequent itemset mining. Most importa
 So far, Apriori algorithm has been implemented.
 
 #### Sources:
-* https://www.mathematik-informatik-statistik.uni-muenchen.de/ (Course: Knowledge discovery in databses)
+* https://www.mathematik-informatik-statistik.uni-muenchen.de/ (Course: Knowledge discovery in databases)
 * https://www.fer.unizg.hr/en/course/aomd (Course: Analysis of Massive Datasets)
 * https://en.wikipedia.org/wiki/Apriori_algorithm
