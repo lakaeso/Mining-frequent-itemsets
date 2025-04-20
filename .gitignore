@@ -1,0 +1,6 @@
+data_full.csv
+data.csv
+.vscode
+__pycache__
+analysis.py
+scrap.py
